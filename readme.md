@@ -1,4 +1,8 @@
 ## Curso Git desde Cero
+### Zonas de git
+1. Directorio de Trabajo
+2. Area de Preparacion
+3. Directorio Git
 
 ### Flujo de trabajo basico en Git
 1. Curso Git desde Cero
