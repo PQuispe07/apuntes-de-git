@@ -4,3 +4,6 @@ master a29a2d9] Se creo el archivo Git-Log
  create mode 100644 git-Log.md
 
  si no hemos echo cambios desde la ultima confirmacion entonces la instataea (comit) lucita exactamente igual
+
+ `$ git log --oneline`
+Este comando nos muestra el historial en una sola linea por commit.
