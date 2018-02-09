@@ -6,3 +6,8 @@ Etiqueta anotada $ git tag
 ignorados-iniciales
 mi-etiqueta
 v1.0
+
+```
+$ git tag -l "v1.*"
+```
+Lista las etiquetas que coincidan con el patron especificado.
