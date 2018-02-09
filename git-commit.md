@@ -7,3 +7,7 @@ master a29a2d9] Se creo el archivo Git-Log
 
  `$ git log --oneline`
 Este comando nos muestra el historial en una sola linea por commit.
+ ##git commit -am "mensaje del commit"
+
+ con este comando odermos saltar el area de preparacion
+Mi pimera fusion de ramas
